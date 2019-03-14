@@ -1,2 +1,3 @@
-# tf-azure-test
-Test code for Azure terraform
+# azure-test by Masoud
+
+plan -var-file=..\secrets.tfvars -var boot_diag=true
